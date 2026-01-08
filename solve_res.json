@@ -1,0 +1,14 @@
+{
+  "modelunits": "Millimeters",
+  "dataversion": 7,
+  "algo": "",
+  "filename": null,
+  "pointer": "md5_D6F68A158772D6FBD0D11584D67C7A46",
+  "cachesolve": false,
+  "values": [
+    {
+      "ParamName": "Text",
+      "InnerTree": { "{0}": [{ "type": "System.String", "data": "\"41\"" }] }
+    }
+  ]
+}
