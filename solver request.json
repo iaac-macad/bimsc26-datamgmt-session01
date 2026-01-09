@@ -1,0 +1,3 @@
+{"URL": "http://localhost:6500/grasshopper",
+"content": {"absolutetolerance":0.01,"angletolerance":1.0,"modelunits":"Meters","dataversion":7,"algo":null,"filename":"add.gh","pointer":"md5_85405DF054DA5EA138C7E81AD5C62F3B","cachesolve":true,"values":[{"ParamName":"a","InnerTree":{"{0}":[{"type":"System.Int32","data":"1"}]}},{"ParamName":"b","InnerTree":{"{0}":[{"type":"System.Double","data":"10.0"}]}}],"warnings":[],"errors":[]}
+}
